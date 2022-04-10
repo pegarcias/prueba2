@@ -5,7 +5,12 @@ de prueba,
 
 segunda modificación
 que me servirá para probar algunos conceptos
+<<<<<<< HEAD
 primera modificación
 tercera modificación
 
 cuarta modificacion
+=======
+
+alistando para fusion
+>>>>>>> cabezera1
