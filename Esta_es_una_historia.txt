@@ -1,4 +1,4 @@
-Esta es una historia
+Esta es una historia v 2,0
 
 cambio abril 20
 2do cambio abril 20
@@ -9,3 +9,5 @@ que me servirá para probar algunos conceptos
 cambio julio 20
 cambio 2 julio 20
 alistando para fusion
+
+
