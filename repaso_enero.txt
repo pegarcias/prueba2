@@ -1,2 +1,8 @@
 Empezamos el repaso.
 
+agrego algo de info
+
+Y  no se que más agregar.
+
+Ultima info para usar el comando diff
+
