@@ -4,5 +4,7 @@ agrego algo de info
 
 Y  no se que más agregar.
 
-Ultima info para usar el comando diff
+Nota de febrero
+
+Nota adicional para hacer push
 
